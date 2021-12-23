@@ -7,7 +7,8 @@ I also write about software stuff [here](http://blog.componentoriented.com/) and
 
 [Badgr Badges](https://api.badgr.io/public/collections/05f9c869069496b554fb3eb29ed013aa)
 
-<img src="https://user-images.githubusercontent.com/28829920/146864711-b29471d4-11fe-42aa-8042-bbdc8e405051.png" width="150">
+<div style="float:right"><img src="https://user-images.githubusercontent.com/28829920/146864711-b29471d4-11fe-42aa-8042-bbdc8e405051.png" width="150"></div>
+<div style="float:left"><img src="https://api.badgr.io/public/assertions/coEcIr8LQ0q-4ClaCgb4EQ/image" width="150"></div>
 
 
 <!---
