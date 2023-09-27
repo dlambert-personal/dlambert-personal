@@ -19,6 +19,11 @@ I write about software stuff at [blog.componentoriented.com](http://blog.compone
 ### Latest Photography Updates
 I write about photography and vintage motorsports at [lanmbertpix.com](http://lambertpix.com/).  Here are my latest updates:
 <!-- LAMBERTPIX-LIST:START -->
+- [On the Demise of Vintage Racing](https://lambertpix.com/2021/08/on-the-demise-of-vintage-racing/)
+- [2021 SVRA Mid-Oh](https://lambertpix.com/2021/06/2021-svra-mid-oh/)
+- [2021 VSCDA Spring Brake](https://lambertpix.com/2021/05/2021-vscda-spring-brake/)
+- [2020 SVRA Mid-Ohio](https://lambertpix.com/2020/06/2020-svra-mid-ohio/)
+- [2019 SVRA Brickyard Vintage Racing Invitational](https://lambertpix.com/2019/07/2019-svra-brickyard-vintage-racing-invitational/)
 <!-- LAMBERTPIX-LIST:END -->
 
 
