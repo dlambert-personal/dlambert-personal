@@ -5,6 +5,11 @@
 
 I also write about software stuff [here](http://blog.componentoriented.com/) and photography and motorsports-related stuff [here](https://lambertpix.com/).
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [Badgr Badges](https://api.badgr.io/public/collections/05f9c869069496b554fb3eb29ed013aa)
 
 <div style="float:right"><img src="https://user-images.githubusercontent.com/28829920/146864711-b29471d4-11fe-42aa-8042-bbdc8e405051.png" width="150"></div>
