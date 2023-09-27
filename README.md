@@ -26,7 +26,7 @@ I write about photography and vintage motorsports at [lanmbertpix.com](http://la
 
 [<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" style="padding-right:10px;" />][vs]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
-[<img align="left" alt="Dotnet core" width="26px" src="https://commons.wikimedia.org/wiki/File:.NET_Core_Logo.svg" style="padding-right:10px;" />][dotnetcore]
+[<img align="left" alt="Dotnet core" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg" style="padding-right:10px;" />][dotnetcore]
 [<img align="left" alt="Web API" width="26px" src="https://symbols.getvecta.com/stencil_27/7_api-management.c909ba432f.svg" style="padding-right:10px;" />][webapi]
 [<img align="left" alt="Azure" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" style="padding-right:10px;" />][azure]
 [<img align="left" alt="GCP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg" style="padding-right:10px;" />][gcp]
@@ -62,7 +62,7 @@ I write about photography and vintage motorsports at [lanmbertpix.com](http://la
 [azure]: https://azure.microsoft.com
 [gcp]: https://cloud.google.com
 [k8s]: https://kubernetes.io
-[msssql]: https://www.microsoft.com/en-us/sql-server
+[mssql]: https://www.microsoft.com/en-us/sql-server
 [mongo]: https://www.mongodb.com
 [angular]: https://angular.io
 [git]: https://git-scm.com
