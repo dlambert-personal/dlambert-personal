@@ -8,6 +8,11 @@ I also write about software stuff [here](http://blog.componentoriented.com/) and
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When is an event not an event?](http://blog.componentoriented.com/2023/09/when-is-an-event-not-an-event/)
+- [“Hello world” is always beautiful](http://blog.componentoriented.com/2023/09/hello-world-is-always-beautiful/)
+- [Ten years of Nvidia](http://blog.componentoriented.com/2023/09/ten-years-of-nvidia/)
+- [To SaaS or not to SaaS](http://blog.componentoriented.com/2023/09/to-saas-or-not-to-saas/)
+- [An Unhelpful Exception](http://blog.componentoriented.com/2021/12/an-unhelpful-exception/)
 <!-- BLOG-POST-LIST:END -->
 
 [Badgr Badges](https://api.badgr.io/public/collections/05f9c869069496b554fb3eb29ed013aa)
