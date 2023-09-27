@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning events and working with event-based APIs.
 - 📫 How to reach me: [@dlambert on twitter](https://twitter.com/dlambert/), or find me on [LinkedIn](https://www.linkedin.com/in/dlambert/).
 
-I also write about software stuff [here](http://blog.componentoriented.com/) and photography and motorsports-related stuff [here](https://lambertpix.com/).
 
 ### Latest Blog Posts
 I write about software stuff at [blog.componentoriented.com](http://blog.componentoriented.com/).  Here are my latest updates:
@@ -27,24 +26,24 @@ I write about photography and vintage motorsports at [lanmbertpix.com](http://la
 
 [<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" style="padding-right:10px;" />][vs]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
+[<img align="left" alt="Dotnet core" width="26px" src="https://commons.wikimedia.org/wiki/File:.NET_Core_Logo.svg" style="padding-right:10px;" />][dotnetcore]
+[<img align="left" alt="Web API" width="26px" src="https://symbols.getvecta.com/stencil_27/7_api-management.c909ba432f.svg" style="padding-right:10px;" />][webapi]
+[<img align="left" alt="Azure" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" style="padding-right:10px;" />][azure]
+[<img align="left" alt="GCP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg" style="padding-right:10px;" />][gcp]
+[<img align="left" alt="K8s" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" style="padding-right:10px;" />][k8s]
+[<img align="left" alt="MS Sql" width="26px" src="https://www.softsolutionworks.com/images/SQLServer/sql-Server-express.png" style="padding-right:10px;" />][mssql]
+<!-- ef -->
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][mongo]
+[<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" style="padding-right:10px;" />][angular]
+<!-- azdo -->
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][github]]
 <br />
-
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-
-
-
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-
+<!-- jira / confluence -->
+<!-- terraform -->
+<!-- sonarqube -->
+<!-- datadog -->
+<!-- wordpress -->
 <br />
 <br />
 
@@ -58,3 +57,13 @@ I write about photography and vintage motorsports at [lanmbertpix.com](http://la
 [lambertpix]: https://lambertpix.com
 [vs]: https://visualstudio.microsoft.com/vs/
 [vscode]: https://code.visualstudio.com/
+[dotnetcore]: https://dotnet.microsoft.com/en-us/
+[webapi]: https://dotnet.microsoft.com/en-us/apps/aspnet/apis
+[azure]: https://azure.microsoft.com
+[gcp]: https://cloud.google.com
+[k8s]: https://kubernetes.io
+[msssql]: https://www.microsoft.com/en-us/sql-server
+[mongo]: https://www.mongodb.com
+[angular]: https://angular.io
+[git]: https://git-scm.com
+[github]: https://github.com
