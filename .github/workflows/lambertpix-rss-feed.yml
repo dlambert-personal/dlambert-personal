@@ -1,4 +1,4 @@
-name: Latest articles update workflow
+name: Latest lambertpix articles update workflow
 on:
   schedule:
     # Runs every hour
