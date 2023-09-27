@@ -8,11 +8,11 @@
 ### Latest Blog Posts
 I write about software stuff at [blog.componentoriented.com](http://blog.componentoriented.com/).  Here are my latest updates:
 <!-- BLOG-POST-LIST:START -->
-- [On the Demise of Vintage Racing](https://lambertpix.com/2021/08/on-the-demise-of-vintage-racing/)
-- [2021 SVRA Mid-Oh](https://lambertpix.com/2021/06/2021-svra-mid-oh/)
-- [2021 VSCDA Spring Brake](https://lambertpix.com/2021/05/2021-vscda-spring-brake/)
-- [2020 SVRA Mid-Ohio](https://lambertpix.com/2020/06/2020-svra-mid-ohio/)
-- [2019 SVRA Brickyard Vintage Racing Invitational](https://lambertpix.com/2019/07/2019-svra-brickyard-vintage-racing-invitational/)
+- [When is an event not an event?](http://blog.componentoriented.com/2023/09/when-is-an-event-not-an-event/)
+- [“Hello world” is always beautiful](http://blog.componentoriented.com/2023/09/hello-world-is-always-beautiful/)
+- [Ten years of Nvidia](http://blog.componentoriented.com/2023/09/ten-years-of-nvidia/)
+- [To SaaS or not to SaaS](http://blog.componentoriented.com/2023/09/to-saas-or-not-to-saas/)
+- [An Unhelpful Exception](http://blog.componentoriented.com/2021/12/an-unhelpful-exception/)
 <!-- BLOG-POST-LIST:END -->
 (thanks to [Jesse aka codeSTACKr](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md) for the github action to enable this!)
 
