@@ -8,11 +8,11 @@
 ### Latest Blog Posts
 I write about software stuff at [blog.componentoriented.com](http://blog.componentoriented.com/).  Here are my latest updates:
 <!-- BLOG-POST-LIST:START -->
+- [Dyamic Validation using FluentValidation](http://blog.componentoriented.com/2023/10/dyamic-validation-using-fluentvalidation/)
 - [Customer Lifecyle Architecture](http://blog.componentoriented.com/2023/09/customer-lifecyle-architecture/)
 - [When is an event not an event?](http://blog.componentoriented.com/2023/09/when-is-an-event-not-an-event/)
 - [“Hello world” is always beautiful](http://blog.componentoriented.com/2023/09/hello-world-is-always-beautiful/)
 - [Ten years of Nvidia](http://blog.componentoriented.com/2023/09/ten-years-of-nvidia/)
-- [To SaaS or not to SaaS](http://blog.componentoriented.com/2023/09/to-saas-or-not-to-saas/)
 <!-- BLOG-POST-LIST:END -->
 (thanks to [Jesse aka codeSTACKr](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md) for the github action to enable this!)
 
