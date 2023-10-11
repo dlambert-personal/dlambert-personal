@@ -8,11 +8,11 @@
 ### Latest Blog Posts
 I write about software stuff at [blog.componentoriented.com](http://blog.componentoriented.com/).  Here are my latest updates:
 <!-- BLOG-POST-LIST:START -->
+- [A few words on CapEx and OpEx](http://blog.componentoriented.com/2023/10/a-few-words-on-capex-and-opex/)
 - [State vs. Events](http://blog.componentoriented.com/2023/10/state-vs-events/)
 - [Dyamic Validation using FluentValidation](http://blog.componentoriented.com/2023/10/dyamic-validation-using-fluentvalidation/)
 - [Customer Lifecyle Architecture](http://blog.componentoriented.com/2023/09/customer-lifecyle-architecture/)
 - [When is an event not an event?](http://blog.componentoriented.com/2023/09/when-is-an-event-not-an-event/)
-- [“Hello world” is always beautiful](http://blog.componentoriented.com/2023/09/hello-world-is-always-beautiful/)
 <!-- BLOG-POST-LIST:END -->
 (thanks to [Jesse aka codeSTACKr](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md) for the github action to enable this!)
 
