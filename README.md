@@ -8,11 +8,11 @@
 ### Latest Blog Posts
 I write about software stuff at [blog.componentoriented.com](http://blog.componentoriented.com/).  Here are my latest updates:
 <!-- BLOG-POST-LIST:START -->
+- [Expected and Actual](http://blog.componentoriented.com/2023/10/expected-and-actual/)
 - [REST is for nouns](http://blog.componentoriented.com/2023/10/rest-is-for-nouns/)
 - [APIs have usability, too!](http://blog.componentoriented.com/2023/10/apis-have-usability-too/)
 - [A few words on CapEx and OpEx](http://blog.componentoriented.com/2023/10/a-few-words-on-capex-and-opex/)
 - [State vs. Events](http://blog.componentoriented.com/2023/10/state-vs-events/)
-- [Dyamic Validation using FluentValidation](http://blog.componentoriented.com/2023/10/dyamic-validation-using-fluentvalidation/)
 <!-- BLOG-POST-LIST:END -->
 (thanks to [Jesse aka codeSTACKr](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md) for the github action to enable this!)
 
