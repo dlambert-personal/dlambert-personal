@@ -57,6 +57,18 @@ I write about photography and vintage motorsports at [lanmbertpix.com](http://la
 <img align="left" src="https://user-images.githubusercontent.com/28829920/146864711-b29471d4-11fe-42aa-8042-bbdc8e405051.png" width="150">
 <img align="left" src="https://api.badgr.io/public/assertions/coEcIr8LQ0q-4ClaCgb4EQ/image" width="150">
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+### [Snowflake Badges](https://achieve.snowflake.com/profile/davidlambert434194/wallet)
+
+<img  src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/96160203" width="150">
+
+
 <!-- defs -->
 [blog]: http://blog.componentoriented.com
 [lambertpix]: https://lambertpix.com
