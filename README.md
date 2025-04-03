@@ -8,11 +8,11 @@
 ### Latest Blog Posts
 I write about software stuff at [blog.componentoriented.com](http://blog.componentoriented.com/).  Here are my latest updates:
 <!-- BLOG-POST-LIST:START -->
+- [Viral adoption, or just creepy?](http://blog.componentoriented.com/2025/04/viral-adoption-or-just-creepy/)
 - [Simulating CDC with dbt snapshots](http://blog.componentoriented.com/2025/01/simulating-cdc-with-dbt-snapshots/)
 - [ChatGPT-assisted analysis](http://blog.componentoriented.com/2024/12/chatgpt-assisted-analysis/)
 - [UX Lessons from Visual Studio](http://blog.componentoriented.com/2023/11/ux-lessons-from-visual-studio/)
 - [Expected and Actual](http://blog.componentoriented.com/2023/10/expected-and-actual/)
-- [REST is for nouns](http://blog.componentoriented.com/2023/10/rest-is-for-nouns/)
 <!-- BLOG-POST-LIST:END -->
 (thanks to [Jesse aka codeSTACKr](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md) for the github action to enable this!)
 
