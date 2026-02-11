@@ -8,11 +8,11 @@
 ### Latest Blog Posts
 I write about software stuff at [blog.componentoriented.com](http://blog.componentoriented.com/).  Here are my latest updates:
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Github Copilot Instructions](http://blog.componentoriented.com/2026/02/exploring-github-copilot-instructions/)
 - [Creating expectations in UX](http://blog.componentoriented.com/2026/02/creating-expectations-in-ux/)
 - [Viral adoption, or just creepy?](http://blog.componentoriented.com/2025/04/viral-adoption-or-just-creepy/)
 - [Simulating CDC with dbt snapshots](http://blog.componentoriented.com/2025/01/simulating-cdc-with-dbt-snapshots/)
 - [ChatGPT-assisted analysis](http://blog.componentoriented.com/2024/12/chatgpt-assisted-analysis/)
-- [UX Lessons from Visual Studio](http://blog.componentoriented.com/2023/11/ux-lessons-from-visual-studio/)
 <!-- BLOG-POST-LIST:END -->
 (thanks to [Jesse aka codeSTACKr](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md) for the github action to enable this!)
 
