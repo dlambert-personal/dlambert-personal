@@ -1,0 +1,43 @@
+name: Medium feeds update workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-medium:
+    name: Update this repo's README with latest Medium content
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update Blog Posts feed
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG-POST-LIST"
+          feed_list: "https://medium.com/feed/@davidglambert"
+          max_post_count: 5
+      - name: Update Activity feed
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "MEDIUM-ACTIVITY-LIST"
+          feed_list: "https://medium.com/feed/@davidglambert"
+          max_post_count: 5
+      - name: Update All Things AI feed
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "MEDIUM-AI-LIST"
+          feed_list: "https://medium.com/feed/@davidglambert/list/all-things-ai-773277891cd3"
+          max_post_count: 5
+      - name: Update Data Science feed
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "MEDIUM-DATA-LIST"
+          feed_list: "https://medium.com/feed/@davidglambert/list/data-science-677433fa80da"
+          max_post_count: 5
+      - name: Update Architecture feed
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "MEDIUM-ARCH-LIST"
+          feed_list: "https://medium.com/feed/@davidglambert/list/architecture-f9e5d52f6f59"
+          max_post_count: 5

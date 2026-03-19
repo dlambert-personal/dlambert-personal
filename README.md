@@ -1,12 +1,12 @@
 ### I'm David - software developer, photographer, motorsports fan
 - 👋 David Lambert here -- this account is all personal work, spikes, samples, and examples.
-- 👀 I’m interested in .Net Core - esp implementations of Event Sourcing and event streaming integrations.
-- 🌱 I’m currently learning events and working with event-based APIs.
-- 📫 How to reach me: [@dlambert on twitter](https://twitter.com/dlambert/), or find me on [LinkedIn](https://www.linkedin.com/in/dlambert/).
+- 👀 I’m interested in lots of languages and disciplines, but my focus has always been dotnet and associated technologies.
+- 🌱 I’m currently learning AI=assisted deveopment, focusing on spec-driven development and the like.
+- 📫 How to reach me: [email](mailto://dlambert@appdev.info), or find me on [LinkedIn](https://www.linkedin.com/in/dlambert/).  I'm on [X](https://x.com/dlambert), but not super-active there.
 
 
 ### Latest Blog Posts
-I write about software stuff at [blog.componentoriented.com](http://blog.componentoriented.com/).  Here are my latest updates:
+I write about software stuff at [medium.com/@davidglambert](https://medium.com/@davidglambert).  Here are my latest updates:
 <!-- BLOG-POST-LIST:START -->
 - [Accounting for Batch Operations](http://blog.componentoriented.com/2026/03/accounting-for-batch-operations/)
 - [Exploring Github Copilot Instructions](http://blog.componentoriented.com/2026/02/exploring-github-copilot-instructions/)
@@ -52,22 +52,32 @@ I write about photography and vintage motorsports at [lanmbertpix.com](http://la
 <br />
 <br />
 
-### [Badgr Badges](https://api.badgr.io/public/collections/05f9c869069496b554fb3eb29ed013aa)
+### Badges
 
 <img align="left" src="https://user-images.githubusercontent.com/28829920/146864711-b29471d4-11fe-42aa-8042-bbdc8e405051.png" width="150">
 <img align="left" src="https://api.badgr.io/public/assertions/coEcIr8LQ0q-4ClaCgb4EQ/image" width="150">
+<img align="left" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/96160203" width="150">
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<br clear="all" />
 
-### [Snowflake Badges](https://achieve.snowflake.com/profile/davidlambert434194/wallet)
 
-<img  src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/96160203" width="150">
+### Focus on Medium.com
 
+**Activity**
+<!-- MEDIUM-ACTIVITY-LIST:START -->
+<!-- MEDIUM-ACTIVITY-LIST:END -->
+
+**All Things AI**
+<!-- MEDIUM-AI-LIST:START -->
+<!-- MEDIUM-AI-LIST:END -->
+
+**Data Science**
+<!-- MEDIUM-DATA-LIST:START -->
+<!-- MEDIUM-DATA-LIST:END -->
+
+**Architecture**
+<!-- MEDIUM-ARCH-LIST:START -->
+<!-- MEDIUM-ARCH-LIST:END -->
 
 <!-- defs -->
 [blog]: http://blog.componentoriented.com
