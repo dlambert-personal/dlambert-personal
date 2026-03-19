@@ -65,6 +65,11 @@ I write about photography and vintage motorsports at [lanmbertpix.com](http://la
 
 **Activity**
 <!-- MEDIUM-ACTIVITY-LIST:START -->
+- [Accounting for Batch Operations](https://medium.com/@davidglambert/accounting-for-batch-operations-f8edb3ab9355?source=rss-4fd621d5bb3b------2)
+- [Exploring Github Copilot Instructions](https://medium.com/@davidglambert/a-year-ago-we-were-just-getting-comfortable-with-prompt-engineering-35309426b9f1?source=rss-4fd621d5bb3b------2)
+- [Creating expectations in UX](https://medium.com/@davidglambert/ive-written-previously-about-the-effectiveness-and-extensibility-of-expected-and-actual-as-a-0e664c69045f?source=rss-4fd621d5bb3b------2)
+- [Viral adoption, or just creepy?](https://medium.com/@davidglambert/viral-adoption-or-just-creepy-dca5b5e0ee41?source=rss-4fd621d5bb3b------2)
+- [Simulating CDC with dbt snapshots](https://medium.com/@davidglambert/simulating-cdc-with-dbt-snapshots-62f2a302165a?source=rss-4fd621d5bb3b------2)
 <!-- MEDIUM-ACTIVITY-LIST:END -->
 
 **All Things AI**
