@@ -37,18 +37,19 @@ I write about photography and vintage motorsports at [lanmbertpix.com](http://la
 [<img align="left" alt="Azure" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" style="padding-right:10px;" />][azure]
 [<img align="left" alt="GCP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg" style="padding-right:10px;" />][gcp]
 [<img align="left" alt="K8s" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" style="padding-right:10px;" />][k8s]
-[<img align="left" alt="MS Sql" width="26px" src="https://www.softsolutionworks.com/images/SQLServer/sql-Server-express.png" style="padding-right:10px;" />][mssql]
-<!-- ef -->
+[<img align="left" alt="MS Sql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="padding-right:10px;" />][mssql]
+[<img align="left" alt="Entity Framework Core" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/entityframeworkcore/entityframeworkcore-original.svg" style="padding-right:10px;" />][ef]
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][mongo]
-[<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" style="padding-right:10px;" />][angular]
-<!-- azdo -->
+[<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />][angular]
+[<img align="left" alt="Azure DevOps" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" style="padding-right:10px;" />][azdo]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][github]
-<!-- jira / confluence -->
-<!-- terraform -->
-<!-- sonarqube -->
-<!-- datadog -->
-<!-- wordpress -->
+[<img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />][jira]
+[<img align="left" alt="Confluence" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" style="padding-right:10px;" />][confluence]
+[<img align="left" alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:10px;" />][terraform]
+[<img align="left" alt="SonarQube" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" style="padding-right:10px;" />][sonarqube]
+[<img align="left" alt="Datadog" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" style="padding-right:10px;" />][datadog]
+[<img align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />][wordpress]
 <br />
 <br />
 
@@ -94,3 +95,11 @@ I write about photography and vintage motorsports at [lanmbertpix.com](http://la
 [angular]: https://angular.io
 [git]: https://git-scm.com
 [github]: https://github.com
+[jira]: https://www.atlassian.com/software/jira
+[confluence]: https://www.atlassian.com/software/confluence
+[ef]: https://learn.microsoft.com/en-us/ef/
+[azdo]: https://azure.microsoft.com/en-us/products/devops
+[terraform]: https://www.terraform.io
+[sonarqube]: https://www.sonarsource.com/products/sonarqube/
+[datadog]: https://www.datadoghq.com
+[wordpress]: https://wordpress.org
