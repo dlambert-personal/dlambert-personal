@@ -8,11 +8,11 @@
 ### Latest Blog Posts
 I write about software stuff at [medium.com/@davidglambert](https://medium.com/@davidglambert).  Here are my latest updates:
 <!-- BLOG-POST-LIST:START -->
-- [Accounting for Batch Operations](http://blog.componentoriented.com/2026/03/accounting-for-batch-operations/)
-- [Exploring Github Copilot Instructions](http://blog.componentoriented.com/2026/02/exploring-github-copilot-instructions/)
-- [Creating expectations in UX](http://blog.componentoriented.com/2026/02/creating-expectations-in-ux/)
-- [Viral adoption, or just creepy?](http://blog.componentoriented.com/2025/04/viral-adoption-or-just-creepy/)
-- [Simulating CDC with dbt snapshots](http://blog.componentoriented.com/2025/01/simulating-cdc-with-dbt-snapshots/)
+- [Accounting for Batch Operations](https://medium.com/@davidglambert/accounting-for-batch-operations-f8edb3ab9355?source=rss-4fd621d5bb3b------2)
+- [Exploring Github Copilot Instructions](https://medium.com/@davidglambert/a-year-ago-we-were-just-getting-comfortable-with-prompt-engineering-35309426b9f1?source=rss-4fd621d5bb3b------2)
+- [Creating expectations in UX](https://medium.com/@davidglambert/ive-written-previously-about-the-effectiveness-and-extensibility-of-expected-and-actual-as-a-0e664c69045f?source=rss-4fd621d5bb3b------2)
+- [Viral adoption, or just creepy?](https://medium.com/@davidglambert/viral-adoption-or-just-creepy-dca5b5e0ee41?source=rss-4fd621d5bb3b------2)
+- [Simulating CDC with dbt snapshots](https://medium.com/@davidglambert/simulating-cdc-with-dbt-snapshots-62f2a302165a?source=rss-4fd621d5bb3b------2)
 <!-- BLOG-POST-LIST:END -->
 (thanks to [Jesse aka codeSTACKr](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md) for the github action to enable this!)
 
