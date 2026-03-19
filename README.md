@@ -61,6 +61,8 @@ I write about photography and vintage motorsports at [lanmbertpix.com](http://la
 
 <br clear="all" />
 
+[<img src="https://img.shields.io/badge/Claude_Code_in_Action-Certificate_of_Completion-blueviolet?style=for-the-badge" />](https://verify.skilljar.com/c/auuagqa6vxfz)
+
 
 ### Focus on Medium.com
 
