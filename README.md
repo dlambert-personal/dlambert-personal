@@ -73,15 +73,15 @@ I write about photography and vintage motorsports at [lanmbertpix.com](http://la
 - [Simulating CDC with dbt snapshots](https://medium.com/@davidglambert/simulating-cdc-with-dbt-snapshots-62f2a302165a?source=rss-4fd621d5bb3b------2)
 <!-- MEDIUM-ACTIVITY-LIST:END -->
 
-**All Things AI**
+<!-- **All Things AI** -->
 <!-- MEDIUM-AI-LIST:START -->
 <!-- MEDIUM-AI-LIST:END -->
 
-**Data Science**
+<!-- **Data Science** -->
 <!-- MEDIUM-DATA-LIST:START -->
 <!-- MEDIUM-DATA-LIST:END -->
 
-**Architecture**
+<!-- **Architecture** -->
 <!-- MEDIUM-ARCH-LIST:START -->
 <!-- MEDIUM-ARCH-LIST:END -->
 
